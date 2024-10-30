@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+label {
+  margin: 10px;
+}
+
+td,
+th {
+  border: 2px solid white;
+  padding: 0 20px;
+}
+
+table {
+  padding-top: 5em;
+  margin: auto;
+}
